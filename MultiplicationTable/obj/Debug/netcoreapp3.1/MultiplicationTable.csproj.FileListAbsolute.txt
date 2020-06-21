@@ -1,0 +1,12 @@
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache
